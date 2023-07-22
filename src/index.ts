@@ -1,4 +1,3 @@
-// import { init, Sprite, GameLoop } from './kontra.min';
 import { init, Sprite, GameLoop } from "kontra";
 
 let { canvas } = init();
